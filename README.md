@@ -37,7 +37,7 @@ Any single URL **will lives until 999 new URL added!**
 > --------------------------------
 ### Current short URLs range:
 from `aaa` to `zzz`.  
-No uppercase URLs...!
+No uppercase URLs; No numbers...!
 
 
 > --------------------------------
